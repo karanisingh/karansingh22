@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @karansingh22
-- 👀 I’m interested in the intersection of computer science, statistics, math, and finance: algorithmic trading and quantitative finance
-- 📫 How to reach me ...
+- Hi, I’m @karansingh22
+- College student interested in the intersection of computer science, statistics, math, and finance.
+- Also interested in algorithms, optimizations, and machine learning
+- www.linkedin.com/in/karan-i-singh
 
 <!---
 karansingh22/karansingh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
